@@ -58,7 +58,6 @@ There are essentially two cases and it is not clear from your sample which one a
 ## A-Normalized Cut 
 Affinity matrix: Affinity matrix is a  matrix with each element the affinity between data point $  In this project we use intensity-based affinity and distance-based affinity. The kernel size sigma of these two affinity is tricky. For intensity based affinity, the kernel  should be small, because two data points with large intensity difference should not be in same cluster by all means. for distance-based affinity, the kernel  should not be too small, because even two data points are far away, they can still be in same cluster, hence the restriction of distance affinity should be looser.
 we Chose 5 Random Pictures Comparing their Kmeans Clustering and Normalized Cut
-![image](https://user-images.githubusercontent.com/46167070/69381943-95840c00-0cbe-11ea-8d9a-6a12efa5726f.png)
 
 
 
