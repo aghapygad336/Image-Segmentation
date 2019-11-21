@@ -62,9 +62,9 @@ we Chose 5 Random Pictures Comparing their Kmeans Clustering and Normalized Cut
 
 
 ## Picture Number 47 
+![47](https://user-images.githubusercontent.com/46167070/69384562-50170d00-0cc5-11ea-84fa-0b4dd59eed0d.PNG)
+![47new](https://user-images.githubusercontent.com/46167070/69384564-50afa380-0cc5-11ea-9ff9-c4ee0935ca21.PNG)
 
-![11](https://user-images.githubusercontent.com/46167070/69379786-c9106780-0cb9-11ea-9063-d0d6c085e672.PNG)
-![46a](https://user-images.githubusercontent.com/46167070/69379787-c9a8fe00-0cb9-11ea-8b03-6e8aa8ec6329.PNG)
 ## Picture Number 25
 ![25](https://user-images.githubusercontent.com/46167070/69379823-e0e7eb80-0cb9-11ea-8366-fbe78ac23f65.PNG)
 ![25a](https://user-images.githubusercontent.com/46167070/69380038-4c31bd80-0cba-11ea-9583-c504162cbc1b.PNG)
@@ -82,4 +82,6 @@ we Chose 5 Random Pictures Comparing their Kmeans Clustering and Normalized Cut
 ![32](https://user-images.githubusercontent.com/46167070/69381092-a5025580-0cbc-11ea-823b-b26ebbf90c6e.PNG)
 
 
+# Refreces : 
+http://www.sci.utah.edu/~weiliu/class/aip/p6/
 
