@@ -29,7 +29,9 @@ It may have some noise but you want your model to learn the underlying pattern i
  # K-Means clustering algorithm for RGB Images :
  K-Means clustering algorithm is an unsupervised algorithm and it is used to segment the interest area from the background. It clusters, or partitions the given data into K-clusters or parts based on the K-centroids.
 The algorithm is used when you have unlabeled data(i.e. data without defined categories or groups). The goal is to find certain groups based on some kind of similarity in the data with the number of groups represented by K , chosen Values For K =[3,5,7,9,11]
- 
+##  For K = 3 
+![image](https://user-images.githubusercontent.com/46167070/69378791-c6ad0e00-0cb7-11ea-9121-d30b9ae0d5bc.png)
+
  
 
 
