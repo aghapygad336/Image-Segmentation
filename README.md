@@ -45,3 +45,12 @@ is needed when you want to seek a balance between Precision and Recall. Right…
 
 ![image](https://user-images.githubusercontent.com/46167070/69377898-d88db180-0cb5-11ea-9939-4b4537c08623.png)
 
+# Entropy :
+We used shannon entropy to ignore the ZERO probability leads to Nan in results
+There are essentially two cases and it is not clear from your sample which one applies here.
+(1) Your probability distribution is discrete. Then you have to translate what appear to be relative frequencies to probabilities
+(2) Your probability distribution is continuous. In that case the values in your input needn't sum to one. Assuming that the input is sampled regularly from the entire space, you'd get
+
+
+
+
