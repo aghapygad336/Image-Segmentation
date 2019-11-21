@@ -25,7 +25,6 @@ It may have some noise but you want your model to learn the underlying pattern i
  ![4](https://user-images.githubusercontent.com/46167070/69377529-2524bd00-0cb5-11ea-9c77-25cc2042f9a9.PNG)
 ![1](https://user-images.githubusercontent.com/46167070/69377531-25bd5380-0cb5-11ea-816d-9e289d575b49.PNG)
 ![2](https://user-images.githubusercontent.com/46167070/69377532-25bd5380-0cb5-11ea-9323-f93674274665.PNG)
-![Uploading 3.PNG…]()
 
  # K-Means clustering algorithm for RGB Images :
  K-Means clustering algorithm is an unsupervised algorithm and it is used to segment the interest area from the background. It clusters, or partitions the given data into K-clusters or parts based on the K-centroids.
@@ -43,4 +42,6 @@ The algorithm is used when you have unlabeled data(i.e. data without defined cat
 # F1 Score
 is needed when you want to seek a balance between Precision and Recall. Right…so what is the difference between F1 Score and Accuracy then? We have previously seen that accuracy can be largely contributed by a large number of True Negatives which in most business circumstances, we do not focus on much whereas False Negative and False Positive usually has business costs (tangible & intangible) thus F1 Score might be a better measure to use if we need to seek a balance between Precision and Recall AND there is an uneven class distribution (large number of Actual Negatives).
 ![image](https://user-images.githubusercontent.com/46167070/69375033-05d76100-0cb0-11ea-9188-659045d8fe3f.png)
+
+![image](https://user-images.githubusercontent.com/46167070/69377898-d88db180-0cb5-11ea-9939-4b4537c08623.png)
 
