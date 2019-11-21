@@ -29,5 +29,7 @@ The algorithm is used when you have unlabeled data(i.e. data without defined cat
 ![image](https://user-images.githubusercontent.com/46167070/69013349-a31c5780-0987-11ea-9087-184f91646ed9.png)
 
 ![image](https://user-images.githubusercontent.com/46167070/69013390-ed9dd400-0987-11ea-8528-23c5314f47c2.png)
-
+# F1 Score
+is needed when you want to seek a balance between Precision and Recall. Right…so what is the difference between F1 Score and Accuracy then? We have previously seen that accuracy can be largely contributed by a large number of True Negatives which in most business circumstances, we do not focus on much whereas False Negative and False Positive usually has business costs (tangible & intangible) thus F1 Score might be a better measure to use if we need to seek a balance between Precision and Recall AND there is an uneven class distribution (large number of Actual Negatives).
+![image](https://user-images.githubusercontent.com/46167070/69375033-05d76100-0cb0-11ea-9188-659045d8fe3f.png)
 
