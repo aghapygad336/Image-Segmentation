@@ -54,5 +54,6 @@ There are essentially two cases and it is not clear from your sample which one a
 (2) Your probability distribution is continuous. In that case the values in your input needn't sum to one. Assuming that the input is sampled regularly from the entire space, you'd get
 
 
-
+For K = 3 
+![image](https://user-images.githubusercontent.com/46167070/69378791-c6ad0e00-0cb7-11ea-9121-d30b9ae0d5bc.png)
 
