@@ -15,14 +15,25 @@ After training, your algorithm should be run only once with fixed parameters on 
 ## the evaluation results: 
 Evaluate your results on the test subset with the Kmeans code. In order to assess quantitatively different aspects of performance of contour detection and segmentation algorithms, the BSDS500 provides a suite of evaluation measures.
  
+  #### Original Image
+ ![image](https://user-images.githubusercontent.com/46167070/69013175-ef669800-0985-11ea-8a6a-d08f8ae63e89.png)
+ # Ground Truth :
+ Ground truth: That is the reality you want your model to predict.
+
+It may have some noise but you want your model to learn the underlying pattern in data that’s causing this ground truth. Practically, your model will never be able to predict the ground truth as ground truth will also have some noise and no model gives hundred percent accuracy but you want your model to be as close as possible.
+
+ ![4](https://user-images.githubusercontent.com/46167070/69377529-2524bd00-0cb5-11ea-9c77-25cc2042f9a9.PNG)
+![1](https://user-images.githubusercontent.com/46167070/69377531-25bd5380-0cb5-11ea-816d-9e289d575b49.PNG)
+![2](https://user-images.githubusercontent.com/46167070/69377532-25bd5380-0cb5-11ea-9323-f93674274665.PNG)
+![Uploading 3.PNG…]()
+
  # K-Means clustering algorithm for RGB Images :
  K-Means clustering algorithm is an unsupervised algorithm and it is used to segment the interest area from the background. It clusters, or partitions the given data into K-clusters or parts based on the K-centroids.
 The algorithm is used when you have unlabeled data(i.e. data without defined categories or groups). The goal is to find certain groups based on some kind of similarity in the data with the number of groups represented by K , chosen Values For K =[3,5,7,9,11]
  
  
- #### Original Image
- ![image](https://user-images.githubusercontent.com/46167070/69013175-ef669800-0985-11ea-8a6a-d08f8ae63e89.png)
- 
+
+
   #### Kmeans Results :
  ![image](https://user-images.githubusercontent.com/46167070/69013329-85e78900-0987-11ea-8d87-ed297f3fc71b.png)
 
