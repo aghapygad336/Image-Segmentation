@@ -72,14 +72,30 @@ we Chose 5 Random Pictures Comparing their Kmeans Clustering and Normalized Cut
 ## Picture Number 7
 ![output-onlinepngtools](https://user-images.githubusercontent.com/46167070/69382034-d5e38a00-0cbe-11ea-9a08-ac26e16ab967.png)
 ![7](https://user-images.githubusercontent.com/46167070/69382035-d5e38a00-0cbe-11ea-9080-4f925708ab9e.PNG)
+![siiiiiiiiiooooooo](https://user-images.githubusercontent.com/46167070/69387742-7e99e580-0ccf-11ea-882f-ebe1fac7ed5b.PNG)
+![sio](https://user-images.githubusercontent.com/46167070/69387743-7e99e580-0ccf-11ea-8ee0-de1dbec3b15b.PNG)
+![siooooooooooo](https://user-images.githubusercontent.com/46167070/69387744-7e99e580-0ccf-11ea-9aea-020113d9d9ca.PNG)
+![sioooooooooooooooooo](https://user-images.githubusercontent.com/46167070/69387745-7f327c00-0ccf-11ea-8cc5-e0c005797959.PNG)
+![si](https://user-images.githubusercontent.com/46167070/69387746-7f327c00-0ccf-11ea-8875-d876920a6c30.PNG)
+![siooiooioo](https://user-images.githubusercontent.com/46167070/69387747-7f327c00-0ccf-11ea-8f40-602c8780bcd1.PNG)
 
 
 ## Picture Number 14
-![output-onlinepngtools (1)](https://user-images.githubusercontent.com/46167070/69381029-89974a80-0cbc-11ea-88de-43376a8e3bd3.png)
-![14](https://user-images.githubusercontent.com/46167070/69381030-89974a80-0cbc-11ea-9070-de2efbe1b198.PNG)
+![hhhhhhooooooo](https://user-images.githubusercontent.com/46167070/69387617-0fbc8c80-0ccf-11ea-97fb-817da36ebe54.PNG)
+![hhihihih](https://user-images.githubusercontent.com/46167070/69387618-0fbc8c80-0ccf-11ea-899c-4be55fe797d4.PNG)
+![hohoho](https://user-images.githubusercontent.com/46167070/69387620-10552300-0ccf-11ea-9688-7dc6d9f20855.PNG)
+![hohoooooooooooo](https://user-images.githubusercontent.com/46167070/69387621-10552300-0ccf-11ea-907c-bd33e3ec2b39.PNG)
+![hohohoohoho](https://user-images.githubusercontent.com/46167070/69387622-10552300-0ccf-11ea-8407-52ebfcc2b4bd.PNG)
+
 ## Picture Number 32
 ![a32](https://user-images.githubusercontent.com/46167070/69381091-a469bf00-0cbc-11ea-85eb-a24ec79c3cc6.PNG)
 ![32](https://user-images.githubusercontent.com/46167070/69381092-a5025580-0cbc-11ea-823b-b26ebbf90c6e.PNG)
+![smlsamdam;d](https://user-images.githubusercontent.com/46167070/69387777-9c674a80-0ccf-11ea-905a-308edc0c3b56.PNG)
+![shbasheb](https://user-images.githubusercontent.com/46167070/69387778-9cffe100-0ccf-11ea-8faf-2ca1e11e1b8b.PNG)
+![shabaaaaaaahseeeeee](https://user-images.githubusercontent.com/46167070/69387779-9cffe100-0ccf-11ea-8093-848ff2cb6b22.PNG)
+![shabahshefefns](https://user-images.githubusercontent.com/46167070/69387780-9cffe100-0ccf-11ea-8222-961ddfc707fe.PNG)
+![shab](https://user-images.githubusercontent.com/46167070/69387783-9d987780-0ccf-11ea-8fcb-241ef0dfa42c.PNG)
+![sjnsanlan](https://user-images.githubusercontent.com/46167070/69387784-9e310e00-0ccf-11ea-9b6b-1c83bd41f724.PNG)
 
 
 # Refreces : 
